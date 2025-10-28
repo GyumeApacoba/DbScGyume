@@ -1,3 +1,5 @@
 {
-  "status": "on"
+  "status": "on",
+  "bot": ["apikey1", "apikey2"],
+  "panel": ["panelkey1"]
 }
